@@ -73,3 +73,4 @@ The following is a list of module_utils files and a general description. The mod
 - urls.py - Utilities for working with http and https requests
 - vca.py - Contains utilities for modules that work with VMware vCloud Air
 - vmware.py - Contains utilities for modules that work with VMware vSphere VMs
+- xenserver.py - Contains utilities for modules that work with XenServer.
